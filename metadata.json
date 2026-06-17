@@ -1,0 +1,6 @@
+{
+  "name": "The One Point",
+  "description": "Interactive travel catalog and experience platform with partner and admin control panels",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
